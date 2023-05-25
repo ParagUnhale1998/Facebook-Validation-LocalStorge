@@ -23,7 +23,7 @@ Here's an explanation of the code in a simple and easy-to-understand :
 
 9) If the email is not already registered, the formObj is added to the storedForms array, and the updated array is stored back in the local storage.
 
-10)An alert is displayed to indicate that the form submission was successful. Additionally, the sign-up page is hidden and the opacity of the main content area is restored.
+10) An alert is displayed to indicate that the form submission was successful. Additionally, the sign-up page is hidden and the opacity of the main content area is restored.
 
 11) The code includes a login function that handles the login process. It retrieves the entered email and password values.
 
